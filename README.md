@@ -1,6 +1,6 @@
 # SI-GuidedProject-8988-1646645456
- 1. Upload Project files in github
-Create a separate folder and upload the files in proper format.
+1. Upload Project files in github
+  Create a separate folder and upload the files in proper format.
     1- Flask 
     2- Dataset
     3- Training
