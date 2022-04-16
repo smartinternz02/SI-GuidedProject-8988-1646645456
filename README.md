@@ -7,4 +7,4 @@
 
 2. Doc in Zoho writer in proper format (Only project related content- Flowchart/Block Diagram should be proper)
 
-3.Project Demonstration video:
+3.Project Demonstration video link: https://www.kapwing.com/videos/625aecd540731000d939677b
